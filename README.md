@@ -15,7 +15,5 @@ A C++ project for managing a parking lot.
 - `Ticket.h` / `Ticket.cpp`  
 - `ParkingLot.h` / `ParkingLot.cpp`  
 
-## How to Run
-1. Open in Code::Blocks  
-2. Build and run the project
+
 
